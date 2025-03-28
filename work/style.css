@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#BTH{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+#context{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 248px;
+    height: 1220px;
+}
+#bthPov{
+    position: absolute;
+    top: 200px;
+    left: 50px;
+}
+#test{
+    background-color: red;
+}
